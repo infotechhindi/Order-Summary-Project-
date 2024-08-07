@@ -1,0 +1,116 @@
+body {
+    background-color: #DCCFBE;
+}
+
+.box1{
+    /* background-color: #D6E1FF; */
+    background-image: url(https://slidescorner.com/wp-content/uploads/2024/02/Aesthetic-Music-PPT-Background-Google-Slides-Wallpaper-by-SlidesCorner.com_.jpg);
+    width: 1550px;
+    height: 750px;
+    position: fixed;
+    margin: auto;
+    inset: 0;
+    border-radius: 1rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    }
+
+    .box2{
+        background-color: #FFFFFF;
+        width: 450px;
+        height: 650px;
+        position: fixed;
+        margin: auto;
+        inset: 0;
+        border-radius: 1rem;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        text-align: center;
+
+        }
+
+    
+        
+    svg{
+        border-top-left-radius: 1rem;
+        border-top-right-radius: 1rem;
+        
+    }
+
+p{
+    margin-left: 11%;
+    margin-right: 11%;
+    font-size: 1.23rem;
+    font-family: cursive;
+}
+h1{
+    margin-top: 2.6rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 1.5rem;
+    
+}
+.payment{
+    width: 350px;
+    height: 50px;
+    border-radius: 1rem;
+        box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+        text-align: center;
+        background-color: #382AE1;
+        font-size: large;
+        color: aliceblue;
+        font-family: cursive;
+        margin-top: 2rem;
+}
+.cancel{
+    text-align: center;
+    font-size: medium;
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    margin-top: 1.2rem;
+    border: none;
+    background-color: #FFFFFF;
+}
+
+
+
+.plan-container {
+    display: flex;
+    align-items: center;
+    background-color: #f0f4ff;
+    border-radius: 8px;
+    height: 90px;
+    width: 330px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-left: 4rem;
+    margin-right: 4rem;
+}
+
+.icon {
+    font-size: 26px;
+    margin-right: 10px;
+    margin-left: 10px;
+
+
+}
+
+
+.plan-title {
+    font-weight: bold;
+    font-size: 16px;
+    margin-left: 20px;
+}
+
+.plan-price {
+    color: #666;
+    font-size: 14px;
+    margin-left: 10px;
+}
+
+.change-link a {
+    color: #576eff;
+    text-decoration: none;
+    font-size: 16px;
+    font-family: cursive;
+    margin-left: 100px;
+}
+
+.change-link a:hover {
+    text-decoration: underline;
+}
